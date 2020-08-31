@@ -1,2 +1,15 @@
 # DQI
-Neural language models have achieved human level performance across several NLP datasets. However, recent studies have shown that these models are not truly learning the desired task; rather, their high performance is attributed to overfitting using spurious biases, which suggests that the capabilities of AI systems have been over-estimated. We introduce a generic formula for Data Quality Index (DQI) to help dataset creators create datasets free of such unwanted biases. 
+Code corresponding to DQI components of the following paper
+https://arxiv.org/abs/2005.00816
+
+If using our code, please cite
+
+```
+@article{Mishra2020DQIMD,
+  title={DQI: Measuring Data Quality in NLP},
+  author={Swaroop Mishra and Anjana Arunkumar and Bhavdeep Sachdeva and Chris Bryan and Chitta Baral},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2005.00816}
+}
+```
